@@ -1,10 +1,11 @@
 
+
 import numpy as np
 import matplotlib.pyplot as plt
 from keras.preprocessing.image import ImageDataGenerator
-import os
 from classifier1 import XCeption
 from classifier2 import AlexNet
+import os
 
 train_path = "./input/train"
 test_path = "./input/test"
