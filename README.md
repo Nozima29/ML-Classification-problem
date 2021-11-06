@@ -1,10 +1,5 @@
-# ML-Classification-problem
-The repo includes AlexNet and Xception classifiers for binary (cats vs dogs) dataset.
-
-Run file **Main.py** which includes:
-
-* classifier1.py - Xception model 
-* classifier2.py - AlexNet model
+## Binary-Classification-model
+The repo includes AlexNet and Xception models for binary (cats vs dogs) classification.
 
 >The models are created using basic architecture of ML Classifiers
 
